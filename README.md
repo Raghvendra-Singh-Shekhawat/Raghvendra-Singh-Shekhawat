@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Raghvendra-Singh-Shekhawat
-- 🌱 I’m currently learning Javascript
 - 📫 How to reach me EMAIL: raghvendrasinghshekhawat22@gmail.com &
                       Mobile no.- 9116779482     
 
